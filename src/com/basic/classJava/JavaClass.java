@@ -15,6 +15,7 @@ package com.basic.classJava;
     
     //static variable 
     private static String staticStringValue;// = "static";
+    //test commit
     
     
     //methods, functions
